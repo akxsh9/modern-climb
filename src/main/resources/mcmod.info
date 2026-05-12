@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modernclimb",
+   "name": "Modern Climb",
+   "description": "Adds modern Minecraft ladder and vine climbing mechanics to 1.8.9. Hold space to climb automatically just like newer Minecraft versions.",
+   "version": "1.0",
+   "mcversion": "1.8.9",
+   "url": "",
+   "updateUrl": "",
+   "authorList": ["Akash"],
+   "credits": "Built using Minecraft Forge 1.8.9",
+   "logoFile": "",
+   "screenshots": [],
+   "dependencies": []
+}
+]
