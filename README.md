@@ -20,6 +20,7 @@ Modern ladder and vine climbing mechanics for Minecraft Forge 1.8.9.
 ## Download
 
 Available on Modrinth(under review right now) & CurseForge.
+
 CurseForge - https://www.curseforge.com/minecraft/mc-mods/modern-climb
 Modrinth - https://modrinth.com/mod/modern-climb
 
