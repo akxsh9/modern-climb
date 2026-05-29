@@ -47,10 +47,8 @@ public class ModernClimb {
                 player.motionY = 0.0D;
             }
 
-            // No input -> vanilla-like slide down
+            // No input -> slide down
             else {
-
-                // Vanilla-ish ladder descent speed
                 if (player.motionY < -0.15D) {
                     player.motionY = -0.15D;
                 }
